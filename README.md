@@ -2,6 +2,7 @@
 ### Projeto: **UpMentor**
 **Disciplina:** Domain Driven Design  
 **Autores:** Felipe Gomes Molinari Lopes | RM 559885
+
 **Descrição:**  
 Este relatório apresenta a análise das estruturas de dados utilizadas no projeto *UpMentor*, abordando suas **complexidades temporais e espaciais**.  
 O sistema foi desenvolvido com base nos princípios de **DDD (Domain Driven Design)** e nas boas práticas de **organização modular e orientada a objetos**.
